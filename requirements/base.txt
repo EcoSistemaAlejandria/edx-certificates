@@ -20,7 +20,7 @@ idna==2.8
     # via requests
 nose==1.2.1
     # via -r requirements/base.in
-path.py==2.4.1
+path.py==4.4
     # via -r requirements/base.in
 pbr==5.5.1
     # via stevedore
